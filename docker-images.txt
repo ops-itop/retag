@@ -1,0 +1,6 @@
+# Docker images list
+# remote  local  tag  remote-registry
+
+# Drone CI
+plugins/docker drone/docker latest
+banzaicloud/drone-kaniko drone/kaniko latest
