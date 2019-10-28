@@ -7,3 +7,5 @@ banzaicloud/drone-kaniko drone/kaniko latest
 drone/drone drone/drone 1.3.1
 drone/controller drone/controller 1.3.1
 drone/git drone/git latest
+drone/drone drone/drone 1.6.1
+drone/controller drone/controller 1.6.1
