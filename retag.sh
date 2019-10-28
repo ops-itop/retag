@@ -70,7 +70,7 @@ do
 		shift 2;;
 	-i)
 		REMOTE_IMAGE="$2"
-		LOCAL_IMAGE=$IMAGE
+		LOCAL_IMAGE=$REMOTE_IMAGE
 		shift 2;;
 	-l)
 		LOCAL_IMAGE="$2"
